@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "807295967286",
+    "project_id": "white-label-2c9e1",
+    "storage_bucket": "white-label-2c9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807295967286:android:9cb6c71d9e35eb45b83897",
+        "android_client_info": {
+          "package_name": "br.com.jeftefelipe.whitelabel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807295967286-4nmurnrl4tvuo993fk2k5itgrtt188j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3wbLKz37AfPKsqpIiO6WzYICKXVAbML0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807295967286-4nmurnrl4tvuo993fk2k5itgrtt188j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807295967286:android:949fc4897af47e64b83897",
+        "android_client_info": {
+          "package_name": "br.com.jeftefelipe.whitelabel.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807295967286-4nmurnrl4tvuo993fk2k5itgrtt188j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3wbLKz37AfPKsqpIiO6WzYICKXVAbML0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807295967286-4nmurnrl4tvuo993fk2k5itgrtt188j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807295967286:android:e8d1e7f17048fac4b83897",
+        "android_client_info": {
+          "package_name": "br.com.jeftefelipe.whitelabel.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807295967286-4nmurnrl4tvuo993fk2k5itgrtt188j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3wbLKz37AfPKsqpIiO6WzYICKXVAbML0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807295967286-4nmurnrl4tvuo993fk2k5itgrtt188j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
